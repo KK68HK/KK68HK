@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @KK68HK
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @KK68HK 
+- 👀 I’m interested in ...crypto 
+- 🌱 I’m currently learning ...Data
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-KK68HK/KK68HK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+KK68HK/KK68HK jag har varit sjuk.så jag
+Får hitta på något annat och göra.Har varit 
+mekaniker kroppen säger ifrån.så nu blir det 
+lite data istället.🤔✊💻
 --->
